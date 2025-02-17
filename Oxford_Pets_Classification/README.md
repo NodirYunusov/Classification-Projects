@@ -1,2 +1,0 @@
-# Oxford Pet Classification
-
